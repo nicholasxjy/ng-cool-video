@@ -34,7 +34,7 @@
     source: {
       src: [
         {url: 'video src', type: 'video/mp4'},
-        {url: 'video src', type: 'video.webm'}
+        {url: 'video src', type: 'video/webm'}
       ],
     }
 
