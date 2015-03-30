@@ -17,7 +17,9 @@
 
 3. directive stuff in your html markup `<ng-cool-video source="source"></ng-cool-video>`
 
-4. in controller you should give a source object
+4. in controller you should give a source object     
+
+**source object like below**
 
 
     source: {
